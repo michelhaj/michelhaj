@@ -1,2 +1,17 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+import string
+x=open("input.txt",'r')
+contact={}
+c=""
+for i in x:
+    for b in i:
+        if b not in string.punctuation and b !='/n':
+            c+=b.lower()
+p=c.split()
+for k in p :
+    if k in contact:
+        contact[k]+=1
+    else:
+        contact[k]=1
+for val,lal in contact.items():
+    print(val,lal)
