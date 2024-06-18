@@ -55,17 +55,15 @@
 
 ###
 
-<h3 align="center">Profile Views</h3>
 
-###
-
-<div align="center">
+<div>
+  
+<div align="right">
+  <h3 align="center">Profile Views</h3>
   <img src="https://profile-counter.glitch.me/michelhaj/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/michelalhaj/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -73,5 +71,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
+</div>
 ###
